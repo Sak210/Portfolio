@@ -1,12 +1,9 @@
 import React from 'react';
-import {FaCss3, FaFigma, FaHtml5, FaJs, FaReact} from "react-icons/fa";
+import {FaCss3, FaHtml5, FaJs, FaReact} from "react-icons/fa";
 import { BiLogoJquery } from "react-icons/bi";
 import { AiOutlineDotNet } from "react-icons/ai";
 import { TbSql } from "react-icons/tb";
-import {FaGoogle} from "react-icons/fa";
 import {DiMsqlServer} from "react-icons/di";
-import {RiNetflixFill} from "@remixicon/react";
-import {FaAmazon} from "react-icons/fa";
 import ExpImg from "../../assets/Oatilogo.png";
 import { TbBrandCSharp } from "react-icons/tb";
 

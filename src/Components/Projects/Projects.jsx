@@ -1,6 +1,5 @@
 import React from 'react';
 import ProjectCard from './ProjectCard';
-import osmMap from "../../assets/OSMmaps.webp";
 
 const Projects = () => {
   return (
